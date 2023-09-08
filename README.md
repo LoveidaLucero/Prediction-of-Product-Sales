@@ -1,5 +1,5 @@
 # Prediction-of-Product-Sales
-##Sales prediction for food items sold at various stores
+## Sales prediction for food items sold at various stores
 
 The following heatmap shows the correlation of the numerical values. Out of the two strongest correlations, the Item_MRP/Item_Outlet_Sales looks to be the only that has a "cause" relationship.
 
