@@ -1,20 +1,20 @@
 # Prediction-of-Product-Sales
 ## Analyzing the relationshp between features and the target Sale Price. 
 
-**Author: Loveida Lucero
+**Author: Loveida Lucero**
 
 ### Business Problem:
 The goal is to predict the sales price for various products sold at various stores. 
 
-###Data:
+### Data:
 [Sale Prediction Data](https://drive.google.com/drive/u/0/folders/1Vi9HtxqFz0o0JEs6B-qcdZLCbP_g5Rxf)
 
-##Methods
+## Methods
 1. Data was first cleaned looking for inconsistencies, duplicates, impossible values and missing values.
 2. The data is next explored through various graphs visually showing each feature alone as well a how it relates to the target feature of Sales Price.
 3. Finally different types of models were created and tuned in order to most accurately predict the sale price with the smallest margin of errors.
 
-##Results
+## Results
 
 The following heatmap shows the correlation of the numerical values: 
 
@@ -29,7 +29,7 @@ The following map shows the ralationship of Item_Outlet_Sales and Outlet_Locatio
 
 - There seems to be no significant difference in sales regardless of location.
 
-##Model
+## Model
 The final model chosen is the tuned Random Forest Model. 
 
 **Scoring:**
