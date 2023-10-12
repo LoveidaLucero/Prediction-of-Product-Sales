@@ -54,7 +54,7 @@ The final model chosen is the tuned Random Forest Model.
 - Top 3 Coefficients:
   - **Outlet_Identifer_OUT027**:
     - If the Outlet_Identifier is OUT027, the sales will increase by $1,476.41.
-  -**Outlet_Type_Supermarket Type3**:
+  - **Outlet_Type_Supermarket Type3**:
     - If the Outlet Type is a Supermarket Type3, the sales will increase by $1,476.41.
   - **Outlet_Type_Supermarket Type1**:
       - If the Outlet_Type id Supermarket Type1, the sales will increase by $1,260.40
