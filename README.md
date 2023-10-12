@@ -64,10 +64,12 @@ The final model chosen is the tuned Random Forest Model.
 
 ![image](https://github.com/LoveidaLucero/Prediction-of-Product-Sales/assets/141985693/864636ae-5bdb-4b21-9801-0ced324fcf59)
 
-- Top 5 most important features in the chosen model:
+- Top 5 most important features in predicting the model:
   - Item_MRP
   - Item_Visibility
   - Outlet_Type_Supermarket Type1
   - Item_Weight
   - Outlet_Type_Supermarket Type3
  
+# Recomendations
+The ultimate goal in any business is to have the highest increase in prices. The store 'OUT027' has a the argest increase in sales by $1,476.41. I would recomend auditing the store to gain some insight in improvements that can be apllied to the other stores as well. Supermarket_Type3/1 also have a significant higher increase than the Supermarket_Type2 and an audit should be performed to gain insights to improve the Supermarket_Type2.
