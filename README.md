@@ -44,5 +44,30 @@ The final model chosen is the tuned Random Forest Model.
 - R^2 (Coefficient of Determination)
   -  0.60
   -  - The models testing data has 59.86% of the variance of target(Item_Outlet_Sales) explained by the remaining features.
+   
+## Model Insights
 
+**Linear Regression Coefficients**
+
+![image](https://github.com/LoveidaLucero/Prediction-of-Product-Sales/assets/141985693/01142792-4261-4094-80dd-18b469c15c32)
+
+- Top 3 Coefficients:
+  - **Outlet_Identifer_OUT027**:
+    - If the Outlet_Identifier is OUT027, the sales will increase by $1,476.41.
+  -**Outlet_Type_Supermarket Type3**:
+    - If the Outlet Type is a Supermarket Type3, the sales will increase by $1,476.41.
+  - **Outlet_Type_Supermarket Type1**:
+      - If the Outlet_Type id Supermarket Type1, the sales will increase by $1,260.40
+
+
+ **Random Forest Regression (final chosen model) Feature Importance**
+
+![image](https://github.com/LoveidaLucero/Prediction-of-Product-Sales/assets/141985693/864636ae-5bdb-4b21-9801-0ced324fcf59)
+
+- Top 5 most important features in the chosen model:
+  - Item_MRP
+  - Item_Visibility
+  - Outlet_Type_Supermarket Type1
+  - Item_Weight
+  - Outlet_Type_Supermarket Type3
  
