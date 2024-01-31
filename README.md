@@ -3,7 +3,7 @@
 **Author: Loveida Lucero**
 
 ### Business Problem:
-The store chain is looking to increase revenue and determine which steps can be taken to improve the sales in individual products and locations. . 
+The store chain is looking to increase revenue and determine which steps can be taken to improve the sales in individual products and locations. 
 
 ### Data:
 [Sale Prediction Data](https://drive.google.com/drive/u/0/folders/1Vi9HtxqFz0o0JEs6B-qcdZLCbP_g5Rxf)
